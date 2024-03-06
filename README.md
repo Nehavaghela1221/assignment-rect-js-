@@ -1,0 +1,2 @@
+# assignment-rect-js-
+Lifecycle
